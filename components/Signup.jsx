@@ -26,7 +26,7 @@ function Signup() {
     <>
       <Container maxW={'container.md'} bgColor={'blackAlpha.800'} h={'100vh'} p={4}>
         <Heading textAlign={'center'} p={4} color={'whiteAlpha.700'} mt={'10'}>
-          Register Now
+          Register Now...
         </Heading>
         <VStack maxW={'60%'} p={4} margin={'120px auto'}>
           <Input
